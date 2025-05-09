@@ -1,5 +1,5 @@
 
-import './App.css';
+
 import ScientificCalculator from './Calculator';
 
 function App() {
