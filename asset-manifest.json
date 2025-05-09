@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ScientificCalculator/static/css/main.6010b652.css",
+    "main.js": "/ScientificCalculator/static/js/main.656ef868.js",
+    "static/js/453.f2df2301.chunk.js": "/ScientificCalculator/static/js/453.f2df2301.chunk.js",
+    "static/media/blue-office-stationery-with-copy-space.jpg": "/ScientificCalculator/static/media/blue-office-stationery-with-copy-space.c9e2d52e10bd7b1dd91d.jpg",
+    "index.html": "/ScientificCalculator/index.html",
+    "main.6010b652.css.map": "/ScientificCalculator/static/css/main.6010b652.css.map",
+    "main.656ef868.js.map": "/ScientificCalculator/static/js/main.656ef868.js.map",
+    "453.f2df2301.chunk.js.map": "/ScientificCalculator/static/js/453.f2df2301.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6010b652.css",
+    "static/js/main.656ef868.js"
+  ]
+}
