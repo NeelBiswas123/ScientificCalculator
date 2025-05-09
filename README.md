@@ -33,7 +33,7 @@ In terminal :-
 npm install 
     &
 npm start
-
+```
 
 
 
