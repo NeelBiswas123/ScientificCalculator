@@ -39,5 +39,5 @@ npm start
 
 
 # Preview
-![Preview 1](preview1.png)
+![Preview 1](https://raw.githubusercontent.com/NeelBiswas123/ScientificCalculator/refs/heads/master/preview1.png)
 ![Preview 2](preview2.png)
