@@ -38,6 +38,6 @@ npm start
 
 
 
-
-![Preview 1](Preview1.png)
-![Preview 2](Preview2.png)
+# Preview
+![alt text](Preview1.png)
+![alt text](Preview2.png)
