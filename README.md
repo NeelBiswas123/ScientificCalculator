@@ -39,5 +39,5 @@ npm start
 
 
 # Preview
-![Preview 1](Preview1.png)
-![Preview 2](Preview2.png)
+![Preview 1](preview1.png)
+![Preview 2](preview2.png)
